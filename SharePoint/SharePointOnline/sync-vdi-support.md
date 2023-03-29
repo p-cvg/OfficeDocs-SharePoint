@@ -31,8 +31,10 @@ For all [supported operating systems](https://support.office.com/article/cc0cb2b
 - Virtual desktops that persist between sessions. 
 - Non-persistent virtual desktops that use [Azure Virtual Desktop](/azure/virtual-desktop).
 - Non-persistent virtual desktops that have [FSLogix Apps](/fslogix/configure-profile-container-tutorial) or [FSLogix Office Container](/fslogix/configure-office-container-tutorial), and a Microsoft 365 subscription for all of the following operating systems:
+  - Windows 11, 32 or 64-bit (supports VHDX files) 
   - Windows 10, 32 or 64-bit (supports VHDX files) 
   - Windows 7, 32 or 64-bit (supports VHD files) 
+  - Windows Server 2022 (supports VHDX)
   - Windows Server 2019 (supports VHDX)
   - Windows Server 2016 (supports VHDX)
   - Windows Server 2012 R2 (supports VHDX)
